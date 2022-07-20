@@ -71,6 +71,7 @@ void blink()
              * PROGMEM attribute, which is an extension of avr-libc, makes
              * variables kept in program space. see:
              *
+             * https://www.nongnu.org/avr-libc/user-manual/pgmspace.html
              * https://www.nongnu.org/avr-libc/user-manual/group__avr__pgmspace.html#ga75acaba9e781937468d0911423bc0c35
              *
              * to read data in the program space, use `pgm_read_*` macro.
