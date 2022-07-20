@@ -8,6 +8,10 @@ The project is intended for students who have mastered Arduino basics. The
 code is small, and includes some advanced topics, such as `PROGMEM`, using
 external libraries, `platformio` build system, and `I2C`.
 
+## Schematic
+
+![Schematic](assets/tiny-pov.svg)
+
 ## Requirements
 
 * python 3.x
