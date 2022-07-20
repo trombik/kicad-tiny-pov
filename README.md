@@ -16,6 +16,7 @@ external libraries, `platformio` build system, and `I2C`.
 
 * python 3.x
 * [tox](https://tox.wiki/en/latest/)
+* An [Arduino as ISP](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP) programmer
 
 ## Usage
 
